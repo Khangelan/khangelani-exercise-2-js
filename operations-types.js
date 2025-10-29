@@ -1,0 +1,10 @@
+let number1 = 19;
+let number2 = 21;
+sum = number1 + number2;
+product = number1 * number2;
+number1AsaString = String(number1);
+console.log(`number 1 is equal to${number1}`);
+console.log(`number 2 is equal to${number2}`);
+console.log(`${sum}`);
+console.log(`${product}`);
+console.log(`number1 as a string is equal ${number1AsaString}`);
